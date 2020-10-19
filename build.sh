@@ -2,5 +2,6 @@
 
 VERSION=1.15.2
 BRANCH=1.15
-ARCNAME=../SimpleOresClassic-${VERSION}.zip
+BUILD=2
+ARCNAME=../SimpleOresClassic-${VERSION}v${BUILD}.zip
 git archive --format=zip -o ${ARCNAME} ${BRANCH}
