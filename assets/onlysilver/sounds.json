@@ -1,0 +1,17 @@
+{
+  "silvergolem.death": {
+    "category": "neutral",
+    "sounds": [
+      "onlysilver:silvergolem/death"
+    ]
+  },
+  "silvergolem.hit": {
+    "category": "neutral",
+    "sounds": [
+      "onlysilver:silvergolem/hit1",
+      "onlysilver:silvergolem/hit2",
+      "onlysilver:silvergolem/hit3",
+      "onlysilver:silvergolem/hit4"
+    ]
+  }
+}
